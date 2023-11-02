@@ -8,3 +8,5 @@ Q-5 -> DFS Cycle <br>
 Q-6 -> BFS Cycle <br>
 Q-7 -> BFS ARTICULATION POINT <br>
 Q-8 -> DFS ARTICULATION POINT <br>
+Q-9 -> BFS BRIDGE <br>
+Q-10 -> DFS BRIDGE <br>
